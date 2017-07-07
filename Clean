@@ -1,0 +1,13 @@
+#!/bin/bash
+# script for Clean Caches, Clear NVRAM
+# Copyright cyberdev
+
+osascript -e 'tell app "System Events" to display dialog "
+Clear NVRAM  
+Clean Caches" with icon file "System:Library:CoreServices:CoreTypes.bundle:Contents:Resources:FileVaultIcon.icns" buttons {"Clean Up"} default button 1 with title "Clean Up"'
+
+
+sudo nvram -c
+sudo purge
+sudo rm -f /System/Library/Caches/com.apple.kext.caches/Startup/kernelcache && sudo touch /System/Library/Extensions && sudo kextcache -u /
+sudo update_dyld_shared_cache -force
