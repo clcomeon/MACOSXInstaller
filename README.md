@@ -41,7 +41,7 @@ Working Inside macOS Sierra Only.
 
 ![Modular Image Creation](https://i11.servimg.com/u/f11/18/50/18/69/captur49.png)
 
-![Modular Image Creation](https://i11.servimg.com/u/f11/18/50/18/69/sans_t23.png)
+![Modular Image Creation](https://i11.servimg.com/u/f11/18/50/18/69/68747410.png)
 
 
 ## Instructions
