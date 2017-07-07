@@ -23,7 +23,7 @@ Working Inside macOS Sierra Only.
 
 ## You need Install macOS High Sierra Beta.app (From Mac App Store)
  
-## Credit Apple, Clover Team, all HMF tester :arcade33, rouletabosse, Ultimalvin, ricoc90,  cyberdevs, chris1111.
+## Credit Apple,jamf Nation, Clover Team, all HMF tester :arcade33, rouletabosse, Ultimalvin, ricoc90,  cyberdevs, chris1111.
 
 ### You must use this program only in MacOS Sierra 10.12 for the first part of this program.
 ### To deploy MacOS Sierra on a Volumes, have to do it in macOS Sierra
