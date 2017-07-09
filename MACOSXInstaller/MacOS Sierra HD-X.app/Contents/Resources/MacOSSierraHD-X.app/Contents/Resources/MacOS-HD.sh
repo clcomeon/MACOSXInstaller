@@ -2,10 +2,6 @@
 # MacOS Sierra HD-X
 # Copyright (c) 2017, chris1111 <leblond1111@gmail.com>
 
-
-#debugging output
-[ -f /tmp/debug ] && set -x 
-
 # Vars
 apptitle="MacOS Sierra HD-X"
 version="2.2"
@@ -13,8 +9,6 @@ version="2.2"
 # Set Icon directory and file 
 iconfile="/System/Library/CoreServices/Installer.app/Contents/Resources/Installer.icns"
 
-
-clear;
 echo "**********************************************  "
 echo "Starting MacOS Sierra HD-X!  "   
 echo "**********************************************  "
@@ -90,10 +84,19 @@ fi
 
 /usr/sbin/diskutil rename "$usbdiskpath" "MacOS-HD"
 echo " "
-echo "Installation  /Volumes/MacOS-HD  
-Wait be patient . . . "
+# create a named pipe
+rm -f /tmp/hpipe
+mkfifo /tmp/hpipe
 
-Sleep 2
+# create a background job which takes its input from the named pipe
+./CocoaDialog.app/Contents/MacOS/CocoaDialog progressbar \
+--indeterminate --title "MacOS Sierra HD-X" \
+--text "Please wait...  Installation ➤ /Volumes /MacOS-HD" < /tmp/hpipe &
+
+
+# associate file descriptor 3 with that pipe and send a character through the pipe
+exec 3<> /tmp/hpipe
+echo -n . >&3
 
 # run the pkg
 osascript -e 'do shell script "installer -allowUntrusted -verboseR -pkg /tmp/Installer-OS/Packages/OSInstall.mpkg -target /Volumes/MacOS-HD" with administrator privileges'
@@ -117,7 +120,14 @@ echo "Volume rename MacOSSierra-HD  "
 echo "**********************************************  "
 /usr/sbin/diskutil rename "MacOS-HD" "MacOSSierra-HD"
 
+sleep 5
 
+# now turn off the progress bar by closing file descriptor 3
+exec 3>&-
+
+# wait for all background jobs to exit
+wait
+rm -f /tmp/hpipe
 
 
 

@@ -37,6 +37,8 @@ Working Inside macOS Sierra Only.
 
 ![Modular Image Creation](https://i11.servimg.com/u/f11/18/50/18/69/captur50.png)
 
+![Modular Image Creation](https://i11.servimg.com/u/f11/18/50/18/69/sans_t28.png)
+
 ## Second Part: Type 1 for APFS Volumes Type 2 for HFS+J Volumes / X For EXIT
 
 ![Modular Image Creation](https://i11.servimg.com/u/f11/18/50/18/69/captur49.png)
