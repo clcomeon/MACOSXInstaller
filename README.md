@@ -30,7 +30,7 @@ Working Inside macOS Sierra and macOS High Sierra.
 
 ## Follow every steps!
 
-![Modular Image Creation](https://i11.servimg.com/u/f11/18/50/18/69/captur81.png)
+![Modular Image Creation](https://i11.servimg.com/u/f11/18/50/18/69/captur82.png)
 
 ![Modular Image Creation](https://i11.servimg.com/u/f11/18/50/18/69/captur80.png)
 
@@ -41,7 +41,7 @@ Working Inside macOS Sierra and macOS High Sierra.
 
 ## Instructions
 
-1. Download the Release and Follow every steps in the Video
+1. Download the Latest Release and Follow every steps in the Video
 
 [![Modular Image Creation](https://i11.servimg.com/u/f11/18/50/18/69/video_13.png)](https://www.youtube.com/watch?v=NtgAyZMpiBo&feature=youtu.be)
 
