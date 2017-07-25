@@ -1,4 +1,5 @@
-# MACOSXInstaller
+# MACOSXInstaller V2
+## The program has changed; With a new video
 
 ![Modular Image Creation](https://i11.servimg.com/u/f11/18/50/18/69/applet14.png)
 
