@@ -8,7 +8,7 @@
 ## For real Mac users, you have not used the Clover Bootloader, as simple as that.
 
 Containing also Clover EFI Bootloader revision v2.4k r4128 mode UEFI, ESP, Legacy 
-### *** Important *** You can not use the Clover Post Installer package on an APFS volume
+### *** Important *** You can not use the Clover Package on an APFS volume! This is why it is suggested in this program to install it before
 
 PS: (Working for UEFI and Legacy configurations)
 
