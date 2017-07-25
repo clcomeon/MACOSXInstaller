@@ -30,7 +30,7 @@ Working Inside macOS Sierra and macOS High Sierra.
 
 ## Follow every steps!
 
-![Modular Image Creation](https://i11.servimg.com/u/f11/18/50/18/69/captur81.png)
+![Modular Image Creation](https://i11.servimg.com/u/f11/18/50/18/69/captur82.png)
 
 ![Modular Image Creation](https://i11.servimg.com/u/f11/18/50/18/69/captur80.png)
 
