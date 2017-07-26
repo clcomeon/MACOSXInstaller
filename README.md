@@ -6,12 +6,10 @@
 Containing also Clover EFI Bootloader revision v2.4k r4128 mode UEFI, ESP, Legacy 
 PS: (Working for UEFI and Legacy configurations)
 Working Inside macOS Sierra and macOS High Sierra.
-
-## For real Mac users, you have not used the Clover Bootloader, as simple as that.
-
-
 ### ****** Important ******
 You can not use the Clover Package on an APFS volume! This is why it is suggested in this program to install it before
+
+## For real Mac users, you have not used the Clover Bootloader, as simple as that.
 
 ## You must disable the security SIP on your Mac or Hackintosh to use this App
 
