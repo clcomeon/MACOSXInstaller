@@ -28,6 +28,7 @@ You can not use the Clover Package on an APFS volume! This is why it is suggeste
 ![Modular Image Creation](https://i11.servimg.com/u/f11/18/50/18/69/captur82.png)
 
 Type 3 for select the Clover installer if necessary install it and type anny key to return to the menu and type 1 for APFS or 2 for HFS + J
+
 ![Modular Image Creation](https://i11.servimg.com/u/f11/18/50/18/69/captur80.png)
 
 
