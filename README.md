@@ -24,6 +24,8 @@ You can not use the Clover Package on an APFS volume! This is why it is suggeste
 ### This will last about 2 minutes with Apple's startosinstall tools which is integrated into Install macOS High Sierra.app.
 
 ## Follow every steps!
+Move MACOSXInstaller to Desktop
+![Modular Image Creation](https://i11.servimg.com/u/f11/18/50/18/69/sans_t40.png)
 
 ![Modular Image Creation](https://i11.servimg.com/u/f11/18/50/18/69/captur82.png)
 
