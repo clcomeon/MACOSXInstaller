@@ -40,7 +40,7 @@ Open startosinstall!" with icon file "System:Library:CoreServices:CoreTypes.bund
 
 
 
-"/Applications/Install macOS High Sierra Beta.app/Contents/Resources/startosinstall" --applicationpath "/Applications/Install macOS High Sierra Beta.app" --volume /"$OSX" --rebootdelay 30 --nointeraction
+"/Applications/Install macOS High Sierra Beta.app/Contents/Resources/startosinstall" --applicationpath "/Applications/Install macOS High Sierra Beta.app" --volume /"$OSX" --converttoapfs YES --rebootdelay 30 --nointeraction
 
 exit
 
