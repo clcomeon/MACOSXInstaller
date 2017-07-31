@@ -17,7 +17,7 @@ You can not use the Clover Package on an APFS volume! This is why it is suggeste
 
 ## You need Install macOS High Sierra Beta.app (Beta 4 minimum) (From Mac App Store)
  
-## Credit Apple, jamf Nation, Clover Team, all HMF tester :arcade33, rouletabosse, Ultimalvin, ricoc90,  cyberdevs, chris1111.
+## Credit Apple, jamf Nation, Clover Team, all HMF tester :arcade33, rouletabosse, Ultimalvin, ricoc90,  cyberdevs, emax31 chris1111.
 
 ### The installation time is about 15 minutes depending on the speed of your disk and your system.
 
