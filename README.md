@@ -2,7 +2,7 @@
 ## The program has changed; With a new video
 ![Modular Image Creation](https://i11.servimg.com/u/f11/18/50/18/69/applet14.png)
 
-## This app is for Installing macOS High Sierra 10.13 on Hackintosh PC and Laptop (Working and Testing macOS High Sierra BETA-4, BETA-5 P-BETA-3).
+## This app is for Installing macOS High Sierra 10.13 on Hackintosh PC and Laptop (Working and Testing macOS High Sierra BETA-4, BETA-5, P-BETA-3).
 Containing also Clover EFI Bootloader revision v2.4k r4146 mode UEFI, ESP, Legacy 
 PS: (Working for UEFI and Legacy configurations)
 Working Inside macOS Sierra and macOS High Sierra.
