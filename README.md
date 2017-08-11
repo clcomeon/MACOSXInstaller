@@ -35,9 +35,11 @@ Type 3 for select the Clover installer if necessary install it and type anny key
 
 ## Clover Install Choice
 Clover UEFI: Only UEFI
+
 ![Modular Image Creation](https://i11.servimg.com/u/f11/18/50/18/69/125.png)
 
 Clover ESP: thats working for  EFI and Legacy config
+
 ![Modular Image Creation](https://i11.servimg.com/u/f11/18/50/18/69/211.png)
 
 ## Clic Terminate, reboot Done!
