@@ -5,7 +5,7 @@
 ## This app is for Installing macOS High Sierra 10.13 on Hackintosh PC and Laptop (Working and Testing macOS High Sierra BETA-4, BETA-5, P-BETA-3, P-BETA-4, BETA-6, P-BETA-5).
 
 ## This app is for Installing macOS High Sierra 10.13 on Hackintosh PC and Laptop (Working and Testing macOS High Sierra BETA-4, BETA-5, P-BETA-3, P-BETA-4).
-Containing also Clover EFI Bootloader revision v2.4k r4146 mode UEFI, ESP, Legacy 
+Containing also Clover EFI Bootloader revision v2.4k r4173 mode UEFI, ESP, Legacy 
 PS: (Working for UEFI and Legacy configurations)
 Working Inside macOS Sierra and macOS High Sierra.
 ### ****** Important ******
