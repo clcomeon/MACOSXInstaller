@@ -7,6 +7,8 @@ Containing also Clover EFI Bootloader revision v2.4k r4182 mode UEFI, ESP, Legac
 PS: (Working for UEFI and Legacy configurations)
 Working Inside macOS Sierra and macOS High Sierra.
 ### ****** Important ******
+This does not work on a Core Storage Volumes
+
 You can not use the Clover Package on an APFS volume! This is why it is suggested in this program to install it before
 
 ## For real Mac users, you have not used the Clover Bootloader, as simple as that.
