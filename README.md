@@ -6,18 +6,17 @@
 Containing also Clover EFI Bootloader revision v2.4k r4182 mode UEFI, ESP, Legacy 
 PS: (Working for UEFI and Legacy configurations)
 Working Inside macOS Sierra and macOS High Sierra.
-### ****** Important ******
+## ****** Important ******
 ### This does not work on a Core Storage Volumes
-
 ### You can not use the Clover Package on an APFS volume! This is why it is suggested in this program to install it before
 
-## For real Mac users, you have not used the Clover Bootloader, as simple as that.
+### For real Mac users, you have not used the Clover Bootloader, as simple as that.
 
-## You must disable the security SIP on your Mac or Hackintosh to use this App
+### You must disable the security SIP on your Mac or Hackintosh to use this App
 
-## You need Blank SSD or HD for Install macOS High Sierra
+### You need Blank SSD or HD for Install macOS High Sierra
 
-## You need Install macOS High Sierra Beta.app (Beta 4 minimum) (From Mac App Store)
+### You need Install macOS High Sierra Beta.app (Beta 4 minimum) (From Mac App Store)
  
 ## Credit Apple, jamf Nation, Clover Team, all HMF tester :arcade33, rouletabosse, Ultimalvin, ricoc90,  cyberdevs, emax31, chris1111.
 
